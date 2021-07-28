@@ -48,6 +48,7 @@
 		-webkit-text-size-adjust: none;
 	}
 
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1584,6 +1585,7 @@
 
 	em, i {
 		font-style: italic;
+		color: #c5d5c5
 	}
 
 	p {
